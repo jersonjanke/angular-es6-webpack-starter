@@ -1,0 +1,10 @@
+{
+  "name": "Angular ES6 and Webpack Starter",
+  "short_name": "ng Start Kit",
+  "display": "standalone",
+  "start_url": "/#!/example",
+  "scope": "/",
+  "orientation": "landscape",
+  "background_color": "#EE3268",
+  "theme_color": "#EE3268"
+}
